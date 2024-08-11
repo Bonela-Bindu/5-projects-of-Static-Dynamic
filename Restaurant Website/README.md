@@ -1,1 +1,1 @@
-A simple Restaurant page - first designed in figma and then coded in React. Hope you like it.
+A Restaurant page - first designed in vscode and then coded in React. Hope you like it.
